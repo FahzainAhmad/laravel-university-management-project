@@ -1,0 +1,40 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('time_tables', function (Blueprint $table) {
+            $table->id();
+            $table->unsignedBigInteger('dept_id');
+            $table->string('sem');
+            $table->string('div');
+            $table->string('from_date');
+            $table->string('to_date');
+            $table->string('timet');
+
+            $table->timestamps();
+
+            //$table->foreign('dept_id')->references('dept_id')->on('departments');
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        //
+    }
+};

@@ -1,0 +1,11 @@
+INSERT INTO `departments` (`dept_id`, `name`, `full_form`, `duration`, `fees`) VALUES (NULL, 'ICS', 'Introduction To Computer Science', '6', '25000'), (NULL, 'B.Tech', 'Bachelor\'s of Technology', '6', '30000'), (NULL, 'M.Tech', 'Master\'s of Technology', '4', '40000'), (NULL, 'BCA', 'Bachelor\'s of Computer Application', '6', '12000'), (NULL, 'MCA', 'Master\'s of Computer Applications', '4', '20000'), (NULL, 'BSc.IT', 'Bachelor\'s of Science in IT', '6', '34000'), (NULL, 'MSc.IT', 'Master\'s of Science in IT', '4', '50000');
+
+<select name="dept_id" id="dept_id">
+                    <option value="1">Introduction to Computer Science</option>
+                    <option value="2">Bachelor's of Technology</option>
+                    <option value="3">Master's of Technology</option>
+                    <option value="4">Bachelor's of Computer Applications</option>
+                    <option value="5">Master's of Computer Applications</option>
+                    <option value="6">Bachelor's of Science in IT</option>
+                    <option value="7">Master's of Science in IT</option>
+                </select>
