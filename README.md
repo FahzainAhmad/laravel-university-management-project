@@ -5,7 +5,7 @@
 <ul>
   <li>Fully functional Admin and User site</li>
   <li>Neat design build using Bootstrap and vanilla CSS</li>
-  <li>User profile with user specific data like Timtables, Marksheets, Attendence for the specfic user</li>
+  <li>User profile with user specific and relavent data like Timtables, Marksheets, Attendence.r</li>
   <li>Admin can manage Student details, Attendence, Timetables with images, Marksheets and etc..</li>
   <li>I have used Barryvdh DOMPDF, which enables it to let users and admins download student profiles</li>
   <li>Highly Optimized</li>
