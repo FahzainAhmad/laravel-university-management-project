@@ -15,6 +15,10 @@
   <li>Has functions like reset password, using emails</li>
 </ul>
 
+<h2>Snapshots</h2>
+
+<img align="center" src="https://drive.google.com/file/d/1AN4XhIvRcAj-pofkkw6_oJLHYl60hSO6/view?usp=share_link" alt="Admin Student Details"> 
+
 <h2>Getting Started - Steps 📲</h2>
 
 <ul>
