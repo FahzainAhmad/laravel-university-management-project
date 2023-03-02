@@ -19,7 +19,7 @@
 <ul>
   <li>1. Download and extract the files</li>
   <li>2. Create a new laravel project</li>
-  <li>3. Copy and paste ass the files and folders from the extracted folder to your new lavarel project folder</li>
+  <li>3. Copy and paste the files and folders from the extracted folder to your new lavarel project folder</li>
   <li>4. Download and Install Barryvdh DOMPDF </li>
   <li>5. Make appropriate changes to .env file for DB connection and email setup
   <li>6. Make changes to AppServiceProvider for pagination CSS</li>
