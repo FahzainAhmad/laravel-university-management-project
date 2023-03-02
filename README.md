@@ -17,8 +17,9 @@
 
 <h2>Snapshots</h2>
 
-<img align="center" src="https://drive.google.com/file/d/1AN4XhIvRcAj-pofkkw6_oJLHYl60hSO6/view?usp=share_link" alt="Admin Student Details"> 
-
+<p align="center">
+  <img src="https://drive.google.com/file/d/1AN4XhIvRcAj-pofkkw6_oJLHYl60hSO6/view?usp=share_link" alt="Sublime's custom image"/>
+</p>
 <h2>Getting Started - Steps 📲</h2>
 
 <ul>
