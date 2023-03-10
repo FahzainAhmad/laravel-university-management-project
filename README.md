@@ -24,6 +24,7 @@
   <li>4. Download and Install Barryvdh DOMPDF </li>
   <li>5. Make appropriate changes to .env file for DB connection and email setup
   <li>6. Make changes to AppServiceProvider for pagination CSS</li>
+  <li>6. Import the .sql file in PHPMyAdmin and run the seeders</li>
   <li>7. Run the server and run the site</li>
 </ul>
 
