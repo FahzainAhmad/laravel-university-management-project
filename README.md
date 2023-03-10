@@ -34,7 +34,7 @@
 <p><strong>2. Requires Laravel Breeze</strong></p>
 <p><strong>3. requires Barryvdh DOMPDF as I have added PDF functionalities</strong> <a href="https://github.com/barryvdh/laravel-dompdf">  Click here!</a></p>
 <p><strong>4. Internet is required as I have used CDN links</strong></p>
-<p><strong>5. Server like XAMP,WAMPP or MAMP is required</strong></p>
+<p><strong>5. Server application like XAMP,WAMPP or MAMP is required</strong></p>
 
 <h2>License 📜</h2>
 
